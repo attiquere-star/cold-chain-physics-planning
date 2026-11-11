@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Code and results for: When Does Physical Resolution Pay Off? Forecast-Driven Cold-Chain Planning with CFL-Consistent Transport and Age-Structured Inventory"
+version: 1.0.0
+license: MIT
+type: software
+authors:
+  - family-names: "Yatoo"
+    given-names: "Akhter Hussain"
+    affiliation: "University of Electronic Science and Technology of China"
+  - family-names: "Feng"
+    given-names: "Yi"
+    affiliation: "University of Electronic Science and Technology of China"
+  - family-names: "Rehman"
+    given-names: "Attiq Ur"
+    orcid: "https://orcid.org/0000-0001-6608-6570"
+    affiliation: "Huazhong University of Science and Technology"
+  - family-names: "Ghafoor"
+    given-names: "Sabiha"
+    affiliation: "China University of Geosciences"
+  - family-names: "Zamani Gandomani"
+    given-names: "Sahar"
+    affiliation: "University of Electronic Science and Technology of China"
+  - family-names: "Muaad"
+    given-names: "Abdullah Y."
+    orcid: "https://orcid.org/0000-0001-8304-9261"
+    affiliation: "Sana'a Community College"
+  - family-names: "Bin Heyat"
+    given-names: "Md Belal"
+    orcid: "https://orcid.org/0000-0001-5307-9582"
+    affiliation: "Westlake University"
+repository-code: "https://github.com/[GITHUB-USER]/cold-chain-physics-planning"
+keywords:
+  - cold chain
+  - perishable inventory
+  - mixed-integer linear programming
+  - CFL condition
+  - decision-focused learning

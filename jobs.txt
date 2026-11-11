@@ -1,0 +1,19 @@
+python3 run_scale.py out > out/log_scale.txt 2>&1
+python3 run_rf.py 1 out > out/log_rf_1.txt 2>&1
+python3 run_rf.py 2 out > out/log_rf_2.txt 2>&1
+python3 run_scen.py 1 out > out/log_scen_1.txt 2>&1
+python3 run_sens.py 1 out > out/log_sens_1.txt 2>&1
+python3 run_scen.py 2 out > out/log_scen_2.txt 2>&1
+python3 run_sens.py 2 out > out/log_sens_2.txt 2>&1
+python3 run_scen.py 3 out > out/log_scen_3.txt 2>&1
+python3 run_sens.py 3 out > out/log_sens_3.txt 2>&1
+python3 run_scen.py 4 out > out/log_scen_4.txt 2>&1
+python3 run_sens.py 4 out > out/log_sens_4.txt 2>&1
+python3 run_scen.py 5 out > out/log_scen_5.txt 2>&1
+python3 run_sens.py 5 out > out/log_sens_5.txt 2>&1
+python3 run_scen.py 6 out > out/log_scen_6.txt 2>&1
+python3 run_sens.py 6 out > out/log_sens_6.txt 2>&1
+python3 run_scen.py 7 out > out/log_scen_7.txt 2>&1
+python3 run_sens.py 7 out > out/log_sens_7.txt 2>&1
+python3 run_scen.py 8 out > out/log_scen_8.txt 2>&1
+python3 run_sens.py 8 out > out/log_sens_8.txt 2>&1

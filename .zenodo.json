@@ -1,0 +1,47 @@
+{
+  "title": "Code and results for: When Does Physical Resolution Pay Off? Forecast-Driven Cold-Chain Planning with CFL-Consistent Transport and Age-Structured Inventory",
+  "upload_type": "software",
+  "description": "Simulation generator, planning MILPs (aggregated, upwind finite-volume and characteristic transport with age-structured inventory), LSTM forecasting, decision-focused recalibration, experiment scripts, raw results and analysis code. Every number in the accompanying paper can be regenerated from this archive.",
+  "creators": [
+    {
+      "name": "Yatoo, Akhter Hussain",
+      "affiliation": "University of Electronic Science and Technology of China"
+    },
+    {
+      "name": "Feng, Yi",
+      "affiliation": "University of Electronic Science and Technology of China"
+    },
+    {
+      "name": "Rehman, Attiq Ur",
+      "affiliation": "Huazhong University of Science and Technology",
+      "orcid": "0000-0001-6608-6570"
+    },
+    {
+      "name": "Ghafoor, Sabiha",
+      "affiliation": "China University of Geosciences"
+    },
+    {
+      "name": "Zamani Gandomani, Sahar",
+      "affiliation": "University of Electronic Science and Technology of China"
+    },
+    {
+      "name": "Muaad, Abdullah Y.",
+      "affiliation": "Sana'a Community College",
+      "orcid": "0000-0001-8304-9261"
+    },
+    {
+      "name": "Bin Heyat, Md Belal",
+      "affiliation": "Westlake University",
+      "orcid": "0000-0001-5307-9582"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "cold chain",
+    "perishable inventory",
+    "mixed-integer linear programming",
+    "CFL condition",
+    "decision-focused learning"
+  ],
+  "version": "1.0.0"
+}
